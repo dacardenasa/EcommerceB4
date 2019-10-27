@@ -1,0 +1,70 @@
+* {
+  box-sizing: border-box;
+}
+
+textarea {
+  resize: none;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+  color: #fff;
+  background-color: #333;
+}
+
+.carrusel {
+  margin-bottom: 10px;
+}
+
+.tshirt-container h4 {
+  font-weight: bold;
+}
+
+.tshirt-desc {
+  font-size: 12px;
+}
+
+.modales .btn-wish {
+  color: #3B86D1; 
+  margin-top: 10px;
+}
+
+.modales .tab-content .cont-descr p{
+  font-size: 15px; 
+  line-height: 1.5; 
+  padding-bottom: 25px; 
+  margin: 10px 20px;
+}
+
+.modales .panel-mg {
+  margin: 10px 20px;
+}
+
+.modales .tshirt-alert {
+  margin: 0 10px 10px 10px;
+}
+
+.modal-title {
+  font-weight: bold;
+}
+
+.tshirt-nav {
+  margin-top: 10px;
+}
+
+.tshirt-nav .tshirt-modal-descr {
+  padding: 10px 10px;
+}
+
+.tshirt-nav .tshirt-panel {
+  margin: 10px 10px;
+}
+
+.tshirt-nav .tshirt-form {
+  margin: 10px 10px;
+}
+
+.container-nav {
+  margin: 0 10px 0 10px;
+}
+
+
